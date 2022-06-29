@@ -3,4 +3,7 @@ public struct PvcombankSDK {
 
     public init() {
     }
+    static public func testPrint(){
+        print("test test")
+    }
 }
