@@ -6,6 +6,6 @@ final class PvcombankSDKTests: XCTestCase {
         // This is an example of a functional test case.
         // Use XCTAssert and related functions to verify your tests produce the correct
         // results.
-        XCTAssertEqual(PvcombankSDK().text, "Hello, World!")
+        //XCTAssertEqual(PvcombankSDK().text, "Hello, World!")
     }
 }
